@@ -1,0 +1,7 @@
+html, body{
+    height: 100%;
+    margin: 0;
+}
+body{
+    background-image: linear-gradient(20deg, #8500ff, maroon);
+}
